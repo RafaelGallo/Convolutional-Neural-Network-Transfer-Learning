@@ -10,6 +10,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/RafaelGallo/Convolutional-Neural-Network-Transfer-Learning)](https://github.com/RafaelGallo/Convolutional-Neural-Network-Transfer-Learning/commits/main)
 
+![](https://github.com/RafaelGallo/Convolutional-Neural-Network-Transfer-Learning/blob/main/img/2c79ca3a-f4b3-48a9-8843-c1105d9fbd22.jpg?raw=true)
+
 Image classification on **Fashion-MNIST** with a CNN built from scratch and five **Transfer Learning** backbones (MobileNetV2, VGG16, VGG19, ResNet50, EfficientNetB0), served through a **Streamlit** app, with experiment tracking in **MLflow** orchestrated by **Airflow**, all running via **Docker Compose**.
 
 📄 Full documentation: [doc/README.md](doc/README.md) · [doc/README.pdf](doc/README.pdf)
