@@ -1,0 +1,38 @@
+{
+  "CNN baseline": {
+    "accuracy": 0.9418,
+    "macro_f1": 0.9416100681950507,
+    "train_time_s": null,
+    "params": 288618
+  },
+  "MobileNetV2": {
+    "accuracy": 0.9164,
+    "macro_f1": 0.9161406196783964,
+    "train_time_s": 127.09205031394958,
+    "params": 2270794
+  },
+  "VGG16": {
+    "accuracy": 0.922,
+    "macro_f1": 0.9214144645851242,
+    "train_time_s": 289.0822308063507,
+    "params": 14719818
+  },
+  "VGG19": {
+    "accuracy": 0.9253,
+    "macro_f1": 0.9248197629864281,
+    "train_time_s": 336.135244846344,
+    "params": 20029514
+  },
+  "ResNet50": {
+    "accuracy": 0.9207,
+    "macro_f1": 0.9200911143616344,
+    "train_time_s": 220.1110246181488,
+    "params": 23608202
+  },
+  "EfficientNetB0": {
+    "accuracy": 0.9081,
+    "macro_f1": 0.9078918525193105,
+    "train_time_s": 162.58274292945862,
+    "params": 4062381
+  }
+}

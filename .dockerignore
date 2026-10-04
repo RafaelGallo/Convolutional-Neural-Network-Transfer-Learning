@@ -1,0 +1,12 @@
+.git
+models/
+notebook/
+input/
+output/
+img/
+doc/
+mflow/
+airflow/logs/
+__pycache__/
+*.pyc
+.venv/

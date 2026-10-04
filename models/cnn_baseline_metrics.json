@@ -1,0 +1,8 @@
+{
+  "CNN baseline": {
+    "accuracy": 0.9418,
+    "macro_f1": 0.9416100681950507,
+    "train_time_s": 231.78839993476868,
+    "params": 288618
+  }
+}
